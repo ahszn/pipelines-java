@@ -1,3 +1,4 @@
+[![Build Status](https://arifulhuq.visualstudio.com/pipelines-examples/_apis/build/status/ahszn.pipelines-java?branchName=master)](https://arifulhuq.visualstudio.com/pipelines-examples/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
